@@ -11,7 +11,7 @@ public class Adress {
 		System.out.println("c:" + hashCodeC + "  " + "a:" + hashCodeA);
 		
 		a = "123";
-		System.out.println("ĞŞ¸ÄaµÄÖµÎª" + a + "ºó,cµÄÖµÎª" + c);
+		System.out.println("ä¿®æ”¹açš„å€¼ä¸º" + a + "å,cçš„å€¼ä¸º" + c);
 		int hashCodeC1 = System.identityHashCode(c);
 		int hashCodeA1 = System.identityHashCode(a);
 		System.out.println("c:" + hashCodeC1 + "  " + "a:" + hashCodeA1);
