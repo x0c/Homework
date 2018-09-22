@@ -1,5 +1,15 @@
 ## CMM模型的最新标准是什么，有哪些体系?
-**能力成熟度模型集成（英文：Capability Maturity Model Integration，简称CMMI）**是一个过程改进方法，它的目的是帮助组织改进他们的绩效。CMMI可以被用于引导横贯一个项目、一个部门或一个完整的组织的过程改进。CMM模型的最新标准是在2018年3月推出的CMMI 2.0
+**能力成熟度模型集成（英文：Capability Maturity Model Integration，简称CMMI** 是一个过程改进方法，它的目的是帮助组织改进他们的绩效。CMMI可以被用于引导横贯一个项目、一个部门或一个完整的组织的过程改进。CMM模型的最新标准是在2018年3月推出的CMMI 2.0
+
+### CMMI模型
+
+CMMI最佳实践（best practices）被发布在称为模型的文档中，这些文档中的每一个都专注于一个不同的兴趣区域。CMMI的当前发行版本——1.3版——提供用于3个兴趣范围的模型：开发、采购和服务。
+
+1. 产品和服务开发——CMMI开发方面（英文：CMMI for Development，简称 CMMI-DEV ）
+2. 服务创建、管理和交付——CMMI服务方面（英文：CMMI for Service，简称 CMMI-SVC ）
+3. 产品和服务采购——CMMI采购方面（英文：CMMI for Acquisition，简称 CMMI-ACQ ）
+
+不管组织选择哪种模型，CMMI最佳实践应当被组织根据它的商业目标来适配
 
 ### CMMI模型框架
 根据所使用的CMMI系列集（采购、服务和开发），它所包含的过程区域将会改变。是那些将被组织的过程所覆盖的区域。下表列出了在所有CMMI系列集中出现的过程区域。这十六个过程的集合被称为CMMI核心过程区域。
@@ -11,11 +21,11 @@
 | DAR  | 决策分析和解决（Decision Analysis and Resolution）          | 支持（Support）                | 3          |
 | IPM  | 集成的项目管理（Integrated Project Management）             | 项目管理（Project Management） | 3          |
 | MA   | 度量和分析（Measurement and Analysis）                      | 支持（Support）                | 2          |
-| OPD  | 组织上的过程定义（Organizational Process Definition）       | 过程管理（Process Management） | 3          |
-| OPF  | 组织上的过程聚焦（Organizational Process Focus）            | 过程管理（Process Management） | 3          |
-| OPM  | 组织上的绩效管理（Organizational Performance Management）   | 过程管理（Process Management） | 5          |
-| OPP  | 组织上的过程绩效（Organizational Process Performance）      | 过程管理（Process Management） | 4          |
-| OT   | 组织上的培训（Organizational Training）                     | 过程管理（Process Management） | 3          |
+| OPD  | 组织上的过程定义（组织al Process Definition）               | 过程管理（Process Management） | 3          |
+| OPF  | 组织上的过程聚焦（组织al Process Focus）                    | 过程管理（Process Management） | 3          |
+| OPM  | 组织上的绩效管理（组织al Performance Management）           | 过程管理（Process Management） | 5          |
+| OPP  | 组织上的过程绩效（组织al Process Performance）              | 过程管理（Process Management） | 4          |
+| OT   | 组织上的培训（组织al Training）                             | 过程管理（Process Management） | 3          |
 | PMC  | 项目监控（Project Monitoring and Control）                  | 项目管理（Project Management） | 2          |
 | PP   | 项目计划（Project Planning）                                | 项目管理（Project Management） | 2          |
 | PPQA | 过程和产品质量保证（Process and Product Quality Assurance） | 支持（Support）                | 2          |
@@ -42,9 +52,9 @@ CMMI实施时有连续式和阶段式两种改进实施方式。在阶段式中�
 
 - DAR - 决策分析和决议（Decision Analysis and Resolution）
 - IPM - 集成的项目管理（Integrated Project Management）
-- OPD - 组织级过程定义（Organizational Process Definition）
-- OPF - 组织级过程聚焦（Organizational Process Focus）
-- OT - 组织级培训（Organizational Training）
+- OPD - 组织级过程定义（组织al Process Definition）
+- OPF - 组织级过程聚焦（组织al Process Focus）
+- OT - 组织级培训（组织al Training）
 - PI - 产品集成（Product Integration）
 - RD - 需求开发（Requirements Development）
 - RSKM - 风险管理（Risk Management）
@@ -54,13 +64,13 @@ CMMI实施时有连续式和阶段式两种改进实施方式。在阶段式中�
 
 **成熟度级别4 － 已量化地管理**
 
-- OPP - 组织级过程绩效（Organizational Process Performance）
+- OPP - 组织级过程绩效（组织al Process Performance）
 - QPM - 量化的项目管理（Quantitative Project Management）
 
 **成熟度级别5 － 优化中**
 
 - CAR - 因果分析和决议（Causal Analysis and Resolution）
-- OPM - 组织级绩效管理（Organizational Performance Management）
+- OPM - 组织级绩效管理（组织al Performance Management）
 
 ### CMMI服务方面中成熟度级别
 
@@ -83,9 +93,9 @@ CMMI实施时有连续式和阶段式两种改进实施方式。在阶段式中�
 - DAR - 决策分析和决议（Decision Analysis and Resolution）
 - IRP - 突发事件解决和预防（Incident Resolution and Prevention）
 - IWM - 集成的工作管理（Integrated Work Management）
-- OPD - 组织级过程定义（Organizational Process Definition）
-- OPF - 组织级过程聚焦（Organizational Process Focus）
-- OT - 组织上的培训（Organizational Training）
+- OPD - 组织级过程定义（组织al Process Definition）
+- OPF - 组织级过程聚焦（组织al Process Focus）
+- OT - 组织上的培训（组织al Training）
 - RSKM - 风险管理（Risk Management）
 - SCON - 服务持续性（Service Continuity）
 - SSD - 服务系统开发（Service System Development）
@@ -94,13 +104,13 @@ CMMI实施时有连续式和阶段式两种改进实施方式。在阶段式中�
 
 **成熟度级别4 － 已量化地管理**
 
-- OPP - 组织级过程绩效（Organizational Process Performance）
+- OPP - 组织级过程绩效（组织al Process Performance）
 - QWM - 量化的工作管理（Quantitative Work Management）
 
 **成熟度级别5 － 优化中**
 
 - CAR - 因果分析和决议（Causal Analysis and Resolution）
-- OPM - 组织级绩效管理（Organizational Performance Management）
+- OPM - 组织级绩效管理（组织al Performance Management）
 
 ### CMMI采购方面中的成熟度模型
 
@@ -125,69 +135,59 @@ CMMI实施时有连续式和阶段式两种改进实施方式。在阶段式中�
 - AVER - 采购核查（Acquisition Verification)
 - DAR - 决策分析和决议（Decision Analysis and Resolution）
 - IPM - 集成的项目管理（Integrated Project Management）
-- OPD - 组织级过程定义（Organizational Process Definition）
-- OPF - 组织级过程聚焦（Organizational Process Focus）
-- OT - 组织上的培训（Organizational Training）
+- OPD - 组织级过程定义（组织al Process Definition）
+- OPF - 组织级过程聚焦（组织al Process Focus）
+- OT - 组织上的培训（组织al Training）
 - RSKM - 风险管理（Risk Management）
 
 **成熟度级别4 － 已量化地管理**
 
-- OPP - 组织级过程绩效（Organizational Process Performance）
+- OPP - 组织级过程绩效（组织al Process Performance）
 - QPM - 量化的项目管理（Quantitative Project Management）
 
 **成熟度级别5 － 优化中**
 
 - CAR - 因果分析和决议（Causal Analysis and Resolution）
-- OPM - 组织级绩效管理（Organizational Performance Management）
-
-### CMMI模型
-
-CMMI最佳实践（best practices）被发布在称为模型的文档中，这些文档中的每一个都专注于一个不同的兴趣区域。CMMI的当前发行版本——1.3版——提供用于3个兴趣范围的模型：开发、采购和服务。
-
-1. 产品和服务开发——CMMI开发方面（英文：CMMI for Development，简称 CMMI-DEV ）
-2. 服务创建、管理和交付——CMMI服务方面（英文：CMMI for Service，简称 CMMI-SVC ）
-3. 产品和服务采购——CMMI采购方面（英文：CMMI for Acquisition，简称 CMMI-ACQ ）
-
-不管组织选择哪种模型，CMMI最佳实践应当被组织根据它的商业目标来适配
+- OPM - 组织级绩效管理（组织al Performance Management）
 
 
 
 ## 国内有哪些企业符合CMM标准，并且属于哪一级别
 
-<b>CMMI-SVC v1.3(Staged):Maturity Level 2</b>
+<b>CMMI-SVC V1.3（分级）：成熟度等级 2</b>
 
-| Organization                                           | Organizational Unit | Last Day of Appraisal Onsite |
-| ------------------------------------------------------ | ------------------- | ---------------------------- |
-| Beijing Mfox Technology Co.,Ltd                        | Software Department | 05/14/2018                   |
-| Guangzhou Dinghan Railway Vehicles Equipment Co., Ltd. | Technology Center   | 06/15/2018                   |
-| ...                                                    | ...                 | ...                          |
-
-
-
-<b>CMMI-SVC v1.3(Staged):Maturity Level 3</b>
-
-| Organization                                                 | Organizational Unit                                          | Last Day of Appraisal Onsite |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------- |
-| 100credit Financial Information Services Co.Ltd.             | [Research and Development (R&D) Department and the Human Resources Department Training Office | 09/18/2018                   |
-| 3Golden-Zhengzhou Holdings Credit Big Data Technology Co, Ltd | R&D Department                                               | 01/28/2018                   |
-| ...                                                          | ...                                                          | ...                          |
+| 组织                                                   | 组织单位            | 最后一次现场评估 |
+| ------------------------------------------------------ | ------------------- | ---------------- |
+| Beijing Mfox Technology Co.,Ltd                        | Software Department | 05/14/2018       |
+| Guangzhou Dinghan Railway Vehicles Equipment Co., Ltd. | Technology Center   | 06/15/2018       |
+| ...                                                    | ...                 | ...              |
 
 
 
-<b>CMMI-SVC v1.3(Staged):Maturity Level 4</b>
+<b>CMMI-SVC V1.3（分级）：成熟度等级 3</b>
 
-| Organization                             | Organizational Unit                                          | Last Day of Appraisal Onsite |
-| ---------------------------------------- | ------------------------------------------------------------ | ---------------------------- |
-| Bank of China                            | Software Center                                              | 01/21/2018                   |
-| Beijing Institute of Control Engineering | Software Development Business Units (Software Center, Electronic Center, and Quality Management Office) | 08/31/2018                   |
-| ...                                      | ...                                                          | ...                          |
+| 组织                                                         | 组织单位                                                     | 最后一次现场评估 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- |
+| 100credit Financial Information Services Co.Ltd.             | [Research and Development (R&D) Department and the Human Resources Department Training Office | 09/18/2018       |
+| 3Golden-Zhengzhou Holdings Credit Big Data Technology Co, Ltd | R&D Department                                               | 01/28/2018       |
+| ...                                                          | ...                                                          | ...              |
 
 
 
-<b>CMMI-SVC v1.3(Staged):Maturity Level 5</b>
+<b>CMMI-SVC V1.3（分级）：成熟度等级 4</b>
 
-| Organization                              | Organizational Unit                                          | Last Day of Appraisal Onsite |
-| ----------------------------------------- | ------------------------------------------------------------ | ---------------------------- |
-| Accenture Delivery Centres in China (CDC) | AO and SI Services                                           | 01/24/2018                   |
-| Aerospace Winhong Technology Ltd.         | Research and Development Center and Quality Management Department | 01/20/2018                   |
-| ...                                       | ...                                                          | ...                          |
+| 组织                                     | 组织单位                                                     | 最后一次现场评估 |
+| ---------------------------------------- | ------------------------------------------------------------ | ---------------- |
+| Bank of China                            | Software Center                                              | 01/21/2018       |
+| Beijing Institute of Control Engineering | Software Development Business Units (Software Center, Electronic Center, and Quality Management Office) | 08/31/2018       |
+| ...                                      | ...                                                          | ...              |
+
+
+
+<b>CMMI-SVC V1.3（分级）：成熟度等级 5</b>
+
+| 组织                                      | 组织单位                                                     | 最后一次现场评估 |
+| ----------------------------------------- | ------------------------------------------------------------ | ---------------- |
+| Accenture Delivery Centres in China (CDC) | AO and SI Services                                           | 01/24/2018       |
+| Aerospace Winhong Technology Ltd.         | Research and Development Center and Quality Management Department | 01/20/2018       |
+| ...                                       | ...                                                          | ...              |
