@@ -3,6 +3,9 @@
 - 第一次作业 :
   [打印地址](https://github.com/x0c/Homework/blob/master/java/1/Adress.java)
   [数瓶子](https://github.com/x0c/Homework/blob/master/java/1/Nursery.java)<br>
+- 第二次作业 :
+  [汽车类](https://github.com/x0c/Homework/blob/master/java/2/汽车类)
+  [猜数字](https://github.com/x0c/Homework/blob/master/java/2/猜数字)<br>
 
 :blue_book: 软件需求作业
 --
