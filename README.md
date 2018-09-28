@@ -7,7 +7,7 @@
   [汽车类](https://github.com/x0c/Homework/blob/master/java/2/汽车类)
   [猜数字](https://github.com/x0c/Homework/blob/master/java/2/猜数字)<br>
 - 第三次作业:
-  [list](https://github.com/x0c/Homework/blob/master/java/3/list)<br>
+  [list](https://github.com/x0c/Homework/blob/master/java/3/list/Clist.java)<br>
 
 :blue_book: 软件需求作业
 --
