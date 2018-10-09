@@ -8,7 +8,8 @@
   [猜数字](https://github.com/x0c/Homework/blob/master/java/2/猜数字)<br>
 - 第三次作业:
   [list](https://github.com/x0c/Homework/blob/master/java/3/list/Clist.java)
-  [点歌系统](https://github.com/x0c/Homework/blob/master/java/3/song)<br>
+  [点歌系统](https://github.com/x0c/Homework/blob/master/java/3/song)
+  [比较效率](https://github.com/x0c/Homework/blob/master/java/3/比较查找效率/Compare.java)<br>
 
 :blue_book: 软件需求作业
 --
