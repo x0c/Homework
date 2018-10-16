@@ -63,7 +63,7 @@ public class Writer {
 			}
 			
 			//生成文件
-			FileOutputStream fos = new FileOutputStream("pplist1.xml");
+			FileOutputStream fos = new FileOutputStream("pplist.xml");
 			writer = new XMLWriter(fos, OutputFormat.createPrettyPrint());
 			writer.write(doc);
 			

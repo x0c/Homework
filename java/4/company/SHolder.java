@@ -11,8 +11,8 @@ public class SHolder extends People {
 		String name = this.getName();
 		int sal = this.getSal();
 		
-		//年营业额取10万到15万间随机值
-		int turnover = (int)(Math.random()*100000+50000);
+		//年营业额取20万到25万间随机值
+		int turnover = (int)(Math.random()*50000+200000);
 		int bonus = turnover - Reader.getSalSum();
 		String bonusS;
 		if(12 == mon) {
