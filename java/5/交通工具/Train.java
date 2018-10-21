@@ -1,7 +1,7 @@
 package c;
 
 public class Train extends Vehicle{
-	protected String type = "»ğ³µ";
+	protected String type = "ç«è½¦";
 	protected double goTime = 0.9;
 	protected double backTime = 0.8;
 	protected double ticketTime = 0.5;

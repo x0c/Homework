@@ -20,6 +20,6 @@ public abstract class Vehicle {
 		sumTime = Count(distence)[0];
 		sumPrice = Count(distence)[1];
 		DecimalFormat df=new DecimalFormat("#.00");
-		System.out.println("��ʱ:"+df.format(sumTime)+"Сʱ"+",�۸�:"+sumPrice+"Ԫ");
+		System.out.println("耗时:"+df.format(sumTime)+"小时"+",价格:"+sumPrice+"元");
 	}
 }

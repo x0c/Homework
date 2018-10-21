@@ -6,21 +6,21 @@ public class Main {
 	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		System.out.println("ÇëÊäÈë³ö·¢µØ:");
+		System.out.println("è¯·è¾“å…¥å‡ºå‘åœ°:");
 		String a = scan.next();
-		System.out.println("ÇëÊäÈëÄ¿µÄµØ:");
+		System.out.println("è¯·è¾“å…¥ç›®çš„åœ°:");
 		String b = scan.next();
-		System.out.println("ÇëÊäÈë¾àÀë:");
+		System.out.println("è¯·è¾“å…¥è·ç¦»:");
 		double dist = scan.nextInt();
-		System.out.print("ÓÉ"+a+"µ½"+b);
+		System.out.print("ç”±"+a+"åˆ°"+b);
 		Car car = new Car();
-		System.out.print("Æû³µ");
+		System.out.print("æ±½è½¦");
 		car.out(dist);
 		Train train = new Train();
-		System.out.print("»ğ³µ");
+		System.out.print("ç«è½¦");
 		train.out(dist);
 		Plane plane = new Plane();
-		System.out.print("·É»ú");
+		System.out.print("é£æœº");
 		plane.out(dist);
 		scan.close();
 		

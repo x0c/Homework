@@ -1,7 +1,7 @@
 package c;
 
 public class Plane extends Vehicle{
-	protected String type = "·É»ú";
+	protected String type = "é£žæœº";
 	protected double goTime = 1.5;
 	protected double backTime = 1.4;
 	protected double ticketTime = 0.5;
