@@ -12,6 +12,8 @@
   [比较效率](https://github.com/x0c/Homework/blob/master/java/3/比较查找效率/Compare.java)<br>
 - 第四次作业:
   [开公司](https://github.com/x0c/Homework/blob/master/java/4/company)<br>
+- 第五次作业:
+  [交通工具](https://github.com/x0c/Homework/blob/master/java/5/交通工具)<br>
 
 :blue_book: 软件需求作业
 --
